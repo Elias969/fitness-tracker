@@ -2,6 +2,9 @@
 
 Uma aplicação web completa para acompanhamento de fitness, dieta e exercícios, desenvolvida com React, TypeScript e várias bibliotecas modernas.
 
+
+![Screenshot do Projeto](./images/fitness.png)
+
 ## Funcionalidades
 
 - **Dashboard interativo** com resumo de atividades e estatísticas
